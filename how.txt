@@ -1,0 +1,24 @@
+
+        /= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =\
+       /= = = = = = = = = = H O W   T O   P L A Y = = = = = = = = = = =\
+      ||                                                               ||
+      ||   PONG SHUI is a 2-Player game of Pong with a twisted fate.   ||
+      ||                                                               ||
+      ||   The aim of the game is to decrease the opponent's paddle    ||
+      || while sustaining your own. Each time the ball is hit by a     ||
+      || player's paddle, the opponent's paddle will decrease by one   ||
+      || and the player's paddle will increase by one.                 ||
+      ||                                                               ||
+      ||    There is only one ball and it never dies. The ball can     ||
+      || cross between the players' boundaries and the players need to ||
+      || to steal the ball from each other to keep the paddles alive.  ||
+      ||                                                               ||
+      ||   Both of the paddles are cursed and only one must survive.   ||
+       \= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =/
+        \= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =/
+
+                           /= = = = = = = = = =\
+                          ||   BACK TO HOME    ||
+                           \= = = = = = = = = =/
+
+                                                 
