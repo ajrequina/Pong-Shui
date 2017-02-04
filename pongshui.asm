@@ -251,7 +251,7 @@ GETKEY 			PROC 	NEAR                             ;GETS the input from either PLA
 						MOV		AH, 00H		
 						INT		16H
 						MOV 	TEMP1, AL
-						CMP 	AH, 48H                          ;UP input for PLAYER 2
+						CMP 	AH, 48H                          ;UP Input for PLAYER 2
 						JE 		PU2                  
 						CMP 	AH, 50H                          ;DOWN input for PLAYER 2
 						JE 		PU2
